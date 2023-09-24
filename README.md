@@ -1,2 +1,3 @@
-# gym-website-using-nodejs-nodemon-pug-etcs-
-my first web development project (backend)
+# BEAST gym website
+my first web development project
+Using: Nodejs: exprress; pug,nodemon,etc
